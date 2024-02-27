@@ -1,2 +1,1 @@
-# my-beginner-project
-code as beginner
+# About my beginner project on Github
